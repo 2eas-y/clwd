@@ -1,0 +1,6 @@
+Instructions
+
+Requirements: PHP
+
+Drag the contents of this folder to your server and visit the directory on any browser! That’s it!
+You can edit the getpage.php file to connect to a database and do further exploration on the results. Just an idea. 
