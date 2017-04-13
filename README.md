@@ -1,3 +1,3 @@
 # Craigslist Web Design
 RSS reader for Craigslist web design gigs. 
-Download the zip file and follow the readme inside
+Download and follow the readme.txt inside
