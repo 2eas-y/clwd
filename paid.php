@@ -43,7 +43,7 @@ function showRSS(str) {
       document.getElementById("rssOutput").innerHTML=xmlhttp.responseText;
     }
   }
-  xmlhttp.open("GET","getrss.php?q="+str,true);
+  xmlhttp.open("GET","getrsspaid.php?q="+str,true);
   xmlhttp.send();
 }
 </script>
@@ -511,7 +511,7 @@ Find web design work on Craigslist!</div>
 <p></p>
 
 <div class="results" id="rssOutput">
-<p align="left">All gigs will be listed here...</p>
+<p align="left">Paid gigs will be listed here...</p>
 
 </div>
 
