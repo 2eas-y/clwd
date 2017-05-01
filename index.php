@@ -520,7 +520,7 @@ Find web design work on Craigslist!</div>
 
 
 
-<div align="center"><a href="https://github.com/unixcommerce/clwd" style="text-align: center">Download on GitHub</a><br>
+<div align="center"><a href="https://www.unixcommerce.com/" target="_blank" style="text-align: center">Visit our website</a><br>
 <br>
 
 
